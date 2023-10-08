@@ -47,7 +47,7 @@
 
 ## Contact
 
-Created by [@githubusername] - feel free to contact me!
+Created by [@nikitapatil1122] - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
