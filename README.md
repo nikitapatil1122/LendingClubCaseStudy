@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [General Info](#general-information)
-- [Technologies Used](#technologies-used)
+- [Techniques Used](#techniques-used)
 - [Conclusions](#conclusions)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -37,7 +37,7 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Technologies Used
+## Techniques Used
 
 - Correlation Map and Understanding Entire dataset as well as subset of Loan Default
 - Univariate Analysis
